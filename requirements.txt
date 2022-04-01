@@ -69,4 +69,4 @@ sos==3.8
 SSSDConfig==2.2.2
 systemd-python==234
 Tempita==0.5.1
-urllib3==1.24.3
+urllib3==1.26.5

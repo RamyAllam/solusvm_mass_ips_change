@@ -23,7 +23,7 @@ IPy==0.81
 isc==2.0
 langtable==0.0.43
 libvirt-python==5.1.0
-Mako==1.1.0.dev0
+Mako==1.2.2
 MarkupSafe==1.1.1
 ntplib==0.3.3
 olefile==0.46
